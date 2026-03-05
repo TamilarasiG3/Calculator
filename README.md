@@ -42,7 +42,7 @@ Division (÷)
 Clear (C) button
 
 
-⚠️ Limitations
+## ⚠️ Limitations
 
 Uses eval() (safe here, but not for large apps)
 
@@ -50,18 +50,11 @@ Only basic arithmetic
 
 No keyboard input
 
-🔮 Future Enhancements
-
-Scientific calculator
-
-Keyboard support
-
-Dark mode
-
-Remove eval() logic
-
-👩‍💻 Author
 
 
-Tamilarasi G
+## 👩‍💻 Author
+
+
+## Tamilarasi G
+
 
